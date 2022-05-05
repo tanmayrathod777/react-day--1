@@ -1,0 +1,22 @@
+Q) why do we neet to import react fromreact in our files ?
+-> jsx syntax is defined in react so if we remove so we cant 
+insert react files
+-> to use jsx define react
+
+Q) console.log(element) what you see ?
+-> it return object in js
+
+Q) wrong in code
+const element = (
+    <h1>this is code</h1>
+    <h2> second element </h2>
+)
+-> cant display more than one element you should do in div 
+
+Q) what is mean to be declarative instead of imparative
+-> give instruction is need every step of imparative code
+-> declarative give more developer experience by just 
+define the statement expect to handle by the machine
+
+Q) what dose mean for composable
+-> we can put something together and make a large component

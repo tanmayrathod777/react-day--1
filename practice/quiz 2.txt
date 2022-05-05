@@ -1,0 +1,24 @@
+Q) what is react component ?
+-> independent or reusable code it could be class funciton
+it create when we return .
+
+Q) wrong in funciton
+
+funciton comp(){
+    return (
+        <small>tiny text</small>
+    )
+}
+-> it's first letter should be Capital 
+
+
+q) wrong in code
+function Header() {
+    return (
+        <Header>
+            ...................
+        </Header>
+    )
+}
+ReactDOM.render(Header() , document.getElementById('root'))
+-> <Header />
